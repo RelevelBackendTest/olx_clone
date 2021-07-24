@@ -2,8 +2,11 @@ Relevel OLX Clone – Java Spring Boot
  
 Problem Statement:
 Relevel is planning to build an e-commerce app like OLX to sell old stuffs.You have to design & build the backend for this application. It should have the ability for the users to list an item, search an item , delete an item , add an item to its favourite list etc.
+
 Your task is to go through below templates/stories and create this OLX clone app.
-The tech stack required is Java and Spring Boot. Preferred IDE is Intellij/Eclipse to import the project directly. Postman tool to test the REST APIs. Make sure maven and .m2 etc are configured on local.
+The tech stack required is Java and Spring Boot. Preferred IDE is Intellij/Eclipse to import the project directly. 
+Postman tool to test the REST APIs. Make sure maven and .m2 etc are configured on local.
+
  How to Set up the Application:
 To get ready with building the application a basic or boilerplate template code is provided below.
 Template Repo Link: https://github.com/RelevelBackendTest/olx_clone
